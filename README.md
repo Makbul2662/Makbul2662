@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Makbul2662/Makbul2662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Makbul2662/Makbul2662** is a ✨ _SDET_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
